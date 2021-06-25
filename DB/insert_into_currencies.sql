@@ -1,0 +1,1 @@
+INSERT INTO `example`.`currencies` (`extId`, `nominal`, `numCode`, `charCode`, `name`) VALUES ('R01700J', 10, 949, 'TRY', 'Турецких лир');
